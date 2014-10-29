@@ -23,6 +23,7 @@ Team member 3
 
 
 Team member 4
+Name: Cassandra Kleitsch
 Per 1: AP Calculus BC, Rm B6
 Per 2: AP Comp Sci, Rm B12
 Per 3: AP Env Sci, Rm 316
